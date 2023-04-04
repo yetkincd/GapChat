@@ -1,5 +1,5 @@
 # GapChat
-Kodlar TÜBİTAK 2204 Sunumundan Sonra Yüklenecektir
+Kodlar 3 Nisan 2023 15:05'te gerçekleşen TÜBİTAK 2204 Liselerarası Yarışma Sunumundan Sonra Yüklenmiştir
 
 One Time Pad Based Air Gapped Communication System (Tek Kullanımlık Şerit Tabanlı Hava Aralıklı İletişim Sistemi)
 
