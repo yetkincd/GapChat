@@ -11,6 +11,7 @@ Gapchat is a practical One Time Pad Based Air Gapped Communication System that e
 Türkçe 
 
 #GapChat
+
 Tek Kullanımlık Şerit Tabanlı Hava Aralıklı İletişim Sistemi
 
 Kodlar 3 Nisan 2023 15:05'te gerçekleşen TÜBİTAK 2204 Liselerarası Yarışma Sunumundan Sonra Yüklenmiştir
