@@ -1,6 +1,5 @@
-# GapChat
+# GapChat: One Time Pad Based Air Gapped Communication System 
 
-One Time Pad Based Air Gapped Communication System 
 (See Below for Turkish / Türkçe Metin Aşağıdadır)
 
 The codes were uploaded after the TÜBİTAK 2204 Inter-School Competition Presentation held on April 3, 2023, at 15:05.
@@ -10,9 +9,9 @@ Gapchat is a practical One Time Pad Based Air Gapped Communication System that e
 ----
 Türkçe 
 
-#GapChat
+# GapChat: Tek Kullanımlık Şerit Tabanlı Hava Aralıklı İletişim Sistemi
 
-Tek Kullanımlık Şerit Tabanlı Hava Aralıklı İletişim Sistemi
+
 
 Kodlar 3 Nisan 2023 15:05'te gerçekleşen TÜBİTAK 2204 Liselerarası Yarışma Sunumundan Sonra Yüklenmiştir
 
