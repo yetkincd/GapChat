@@ -36,7 +36,7 @@ def sifre_coz(mesaj,parola):
 import sys
 
 def print_usage():
-    print("use: %s [-d] message"%(sys.argv[0]))
+    print("use: %s [-d message] file"%(sys.argv[0]))
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print_usage()
@@ -55,14 +55,16 @@ if __name__ == "__main__":
             anahtar=str(f.read())
             #print(anahtar)
             f.close()
-#           print("mesaj: "+mesaj)
-#            print("anahtar: "+anahtar)
+##            print("mesaj: "+mesaj)
+##            print("anahtar: "+anahtar)
             cozulmus_mesaj = sifre_coz(mesaj,anahtar)
             #cozulmus_mesaj = sifre_coz(str(binascii.a2b_base64(mesaj)),parola)
             print(cozulmus_mesaj)
     else:
         #yalnizca sifreli mesaj yaratiyoruz
-        mesaj = sys.argv[1]
+        msgfile = open(sys.argv[1])
+        mesaj=msgfile.read()
+        msgfile.close()
         #print("mesaj: "+mesaj)
         #tek kullanimlik serit (One Time Pad) dosyasini secelim
         dosyalar=os.listdir(sifre_dir)

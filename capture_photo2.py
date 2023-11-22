@@ -1,4 +1,4 @@
-#!/Users/yetkin/miniconda3/bin/python
+#!/usr/bin/python3
 
 # import the opencv library
 import cv2

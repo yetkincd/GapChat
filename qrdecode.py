@@ -1,4 +1,4 @@
-#!/Users/yetkin/miniconda3/bin/python3
+#!/usr/bin/python3
 
 import glob
 import cv2
